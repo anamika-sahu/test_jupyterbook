@@ -6,6 +6,3 @@ root: intro
 chapters:
 - file: markdown
 - file: CREATE
-- file: INSTALL
-- file: notebooks
-- file: markdown-notebooks
